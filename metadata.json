@@ -1,0 +1,6 @@
+{
+  "name": "Duckling Studio",
+  "description": "AI influencer operations platform for character-driven collectibles brands. Create, orchestrate, script, and approve virtual personas with visual consistency and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
